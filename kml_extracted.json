@@ -1,0 +1,1760 @@
+{
+  "TUYẾN METRO HÀ NỘI": [
+    {
+      "name": "Tuyến Metro Số 1",
+      "description": "mô tả: Tuyến Metro Số 2<br>source_id: 5F64801FC2000009"
+    },
+    {
+      "name": "Tuyến Metro Số 2",
+      "description": "mô tả: Tuyến Metro Số 2<br>source_id: 5F64801FD3000012"
+    },
+    {
+      "name": "Tuyến Metro số 2A",
+      "description": "mô tả: Số lượng nhà ga: 12 ga gồm: Cát Linh, La Thành, Thái Hà, Láng, Thượng Đình, Vành Đai 3, Phùng Khoang, Văn Quán, Hà Đông, La Khê, Văn Khê, Yên Nghĩa.<br>source_id: 5F816687E200007C"
+    },
+    {
+      "name": "Tuyến Metro Số 3",
+      "description": "mô tả: Tuyến Metro Số 3<br>source_id: 5F816687DD000003"
+    },
+    {
+      "name": "Tuyến Metro Số 4",
+      "description": "mô tả: CAD ID: 1B5B24_0<br>Layer: 2-REGULAR_LINE-M5<br>Nhãn CAD sát tuyến, khoảng cách 0.00 m<br>source_id: 5F816687E700009F"
+    },
+    {
+      "name": "Tuyến Metro Số 5",
+      "description": "mô tả: <br>source_id: 5F816687E600009E"
+    },
+    {
+      "name": "Tuyến Metro Số 6",
+      "description": "mô tả: <br>source_id: 5F816687E5000099"
+    },
+    {
+      "name": "Tuyến Metro Số 7",
+      "description": "mô tả: <br>source_id: 5F816687E1000075"
+    },
+    {
+      "name": "Tuyến Metro số 8",
+      "description": "mô tả: 8<br>source_id: 5F64801FED00002E"
+    },
+    {
+      "name": "Tuyến Metro Số 8B",
+      "description": "mô tả: C-ROAD-CNTR-N<br>source_id: 5F64801FD2000010"
+    },
+    {
+      "name": "Tuyến Metro Số 9",
+      "description": "mô tả: <br>source_id: 5F816687DD000004"
+    },
+    {
+      "name": "Tuyến Metro Số 10",
+      "description": "mô tả: 10<br>source_id: 5F64801FCD00000B"
+    },
+    {
+      "name": "Tuyến Metro Số 11",
+      "description": "mô tả: <br>source_id: 5F816687E500009A"
+    },
+    {
+      "name": "Tuyến Metro Số 12",
+      "description": "mô tả: <br>source_id: 5F816687DF000066"
+    },
+    {
+      "name": "Tuyến Metro Số 13",
+      "description": "mô tả: Tuyến Metro Số 13<br>source_id: 5F816687DE00005F"
+    },
+    {
+      "name": "Tuyến Metro Số 14",
+      "description": "mô tả: Tuyến Metro Số 14<br>source_id: 5F64801FDB000014"
+    }
+  ],
+  "DỰ ÁN VINHOMES": [
+    {
+      "name": "Vinhomes Gardenia",
+      "description": "mô tả: <br>source_id: "
+    },
+    {
+      "name": "Vinhomes Ocean Park 3",
+      "description": "mô tả: Vinhomes Ocean Park 3<br>source_id: "
+    },
+    {
+      "name": "Vinhomes Ocean Park 3",
+      "description": "mô tả: Vinhomes Ocean Park 3<br>source_id: "
+    },
+    {
+      "name": "Vinhomes Ocean Park",
+      "description": "mô tả: Vinhomes Ocean Park<br>source_id: "
+    },
+    {
+      "name": "Sân Vận Động Vinfast",
+      "description": "mô tả: Sân Vận Động Vinfast<br>source_id: "
+    },
+    {
+      "name": "Vinhomes Global Gate Cổ Loa",
+      "description": "mô tả: Vinhomes Global Gate Cổ Loa<br>source_id: "
+    },
+    {
+      "name": "Vinhomes Wonder City Đan Phượng",
+      "description": "mô tả: Vinhomes Wonder City <br>source_id: "
+    },
+    {
+      "name": "Vinhomes Green Bay",
+      "description": "mô tả: <br>source_id: "
+    },
+    {
+      "name": "Vinhomes Smart City",
+      "description": "mô tả: <br>source_id: "
+    },
+    {
+      "name": "Vinhomes Green Villas",
+      "description": "mô tả: <br>source_id: "
+    },
+    {
+      "name": "Vinhomes Riverside",
+      "description": "mô tả: <br>source_id: "
+    },
+    {
+      "name": "Masterise Nguyễn Trãi",
+      "description": "mô tả: <br>source_id: "
+    },
+    {
+      "name": "Vinhomes Giảng Võ",
+      "description": "mô tả: <br>source_id: "
+    },
+    {
+      "name": "Ciputra Hà Nội",
+      "description": "mô tả: <br>source_id: "
+    },
+    {
+      "name": "Vinhomes King Park",
+      "description": "mô tả: <br>source_id: "
+    },
+    {
+      "name": "Khu D - Vinhomes Olympic",
+      "description": "mô tả: 🏙️ Khu D - Vinhomes Olympic<br>source_id: 587554E8DB000001"
+    },
+    {
+      "name": "Khu C - Vinhomes Olympic",
+      "description": "mô tả: 🏟️ Khu C - Vinhomes Olympic<br>source_id: 587554E8DB000002"
+    },
+    {
+      "name": "Khu B - Vinhomes Olympic",
+      "description": "mô tả: 🏗️ Khu B - Vinhomes Olympic<br>source_id: 587554E8DC000003"
+    },
+    {
+      "name": "Khu A - Vinhomes Olympic",
+      "description": "mô tả: 🅰️ Khu A - Vinhomes Olympici<br>source_id: 587554E8DC000004"
+    },
+    {
+      "name": "Vinhomes Ocean Park 2",
+      "description": "mô tả: Vinhomes Ocean Park 2<br>source_id: "
+    }
+  ],
+  "GA METRO SỐ 1": [
+    {
+      "name": "S1.14",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E900001B<br>conversion_note: "
+    },
+    {
+      "name": "S1.10",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E900001D<br>conversion_note: "
+    },
+    {
+      "name": "S1.26",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E900001F<br>conversion_note: "
+    },
+    {
+      "name": "S1.25",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E9000020<br>conversion_note: "
+    },
+    {
+      "name": "S1.24",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E9000021<br>conversion_note: "
+    },
+    {
+      "name": "S1.23",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E9000022<br>conversion_note: "
+    },
+    {
+      "name": "S1.22",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E9000023<br>conversion_note: "
+    },
+    {
+      "name": "S1.21",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E9000024<br>conversion_note: "
+    },
+    {
+      "name": "S1.20",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E9000025<br>conversion_note: "
+    },
+    {
+      "name": "S1.18",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E9000026<br>conversion_note: "
+    },
+    {
+      "name": "S1.17",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E9000027<br>conversion_note: "
+    },
+    {
+      "name": "S1.16",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E9000028<br>conversion_note: "
+    },
+    {
+      "name": "S1.15",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E9000029<br>conversion_note: "
+    },
+    {
+      "name": "S1.13",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E900002A<br>conversion_note: "
+    },
+    {
+      "name": "S1.12",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E900002B<br>conversion_note: "
+    },
+    {
+      "name": "S1.11",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E900002C<br>conversion_note: "
+    },
+    {
+      "name": "S1.09",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E900002D<br>conversion_note: "
+    },
+    {
+      "name": "S1.08",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E900002E<br>conversion_note: "
+    },
+    {
+      "name": "S1.07",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E900002F<br>conversion_note: "
+    },
+    {
+      "name": "S1.05",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E9000030<br>conversion_note: "
+    },
+    {
+      "name": "S1.04",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E9000031<br>conversion_note: "
+    },
+    {
+      "name": "S1.03",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E9000032<br>conversion_note: "
+    },
+    {
+      "name": "S1.02",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E9000033<br>conversion_note: "
+    },
+    {
+      "name": "S1.06",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E9000034<br>conversion_note: "
+    },
+    {
+      "name": "S1.01",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E9000035<br>conversion_note: "
+    },
+    {
+      "name": "S1.19",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E9000036<br>conversion_note: "
+    },
+    {
+      "name": "S1.27",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E9000037<br>conversion_note: "
+    },
+    {
+      "name": "S1.28",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E9000038<br>conversion_note: "
+    },
+    {
+      "name": "S1.27A",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E9000039<br>conversion_note: "
+    },
+    {
+      "name": "S1.26A",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E900003A<br>conversion_note: "
+    }
+  ],
+  "GA METRO SỐ 2": [
+    {
+      "name": "S2.01",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E900008A<br>conversion_note: "
+    },
+    {
+      "name": "S2.02",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E900008B<br>conversion_note: "
+    },
+    {
+      "name": "S2.03",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E900008C<br>conversion_note: "
+    },
+    {
+      "name": "S2.04",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E900008D<br>conversion_note: "
+    },
+    {
+      "name": "S2.05",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E900008E<br>conversion_note: "
+    },
+    {
+      "name": "S2.06",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E900008F<br>conversion_note: "
+    },
+    {
+      "name": "S2.07",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E9000090<br>conversion_note: "
+    },
+    {
+      "name": "S2.08",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E9000091<br>conversion_note: "
+    },
+    {
+      "name": "S2.09",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E9000092<br>conversion_note: "
+    },
+    {
+      "name": "S2.10",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E9000093<br>conversion_note: "
+    },
+    {
+      "name": "S2.11",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E9000094<br>conversion_note: "
+    },
+    {
+      "name": "S2.12",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E9000095<br>conversion_note: "
+    },
+    {
+      "name": "S2.13",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E9000096<br>conversion_note: "
+    },
+    {
+      "name": "S2.14",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E9000097<br>conversion_note: "
+    },
+    {
+      "name": "S2.15",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E9000098<br>conversion_note: "
+    },
+    {
+      "name": "S2.16",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E9000099<br>conversion_note: "
+    },
+    {
+      "name": "S2.17",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E900009A<br>conversion_note: "
+    },
+    {
+      "name": "S2.18",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E900009B<br>conversion_note: "
+    },
+    {
+      "name": "S2.19",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E900009C<br>conversion_note: "
+    },
+    {
+      "name": "S2.20",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E900009D<br>conversion_note: "
+    },
+    {
+      "name": "S2.21",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E900009E<br>conversion_note: "
+    },
+    {
+      "name": "S2.22",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E900009F<br>conversion_note: "
+    },
+    {
+      "name": "S2.23",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E90000A0<br>conversion_note: "
+    },
+    {
+      "name": "S2.24",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E90000A1<br>conversion_note: "
+    },
+    {
+      "name": "S2.25",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E90000A2<br>conversion_note: "
+    },
+    {
+      "name": "S2.26",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E90000A3<br>conversion_note: "
+    },
+    {
+      "name": "S2.28",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E90000A5<br>conversion_note: "
+    },
+    {
+      "name": "S2.29",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E90000A6<br>conversion_note: "
+    },
+    {
+      "name": "S2.30",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E90000A7<br>conversion_note: "
+    },
+    {
+      "name": "S2.31",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E90000A8<br>conversion_note: "
+    },
+    {
+      "name": "S2.32",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E90000A9<br>conversion_note: "
+    },
+    {
+      "name": "S2.33",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E90000AA<br>conversion_note: "
+    },
+    {
+      "name": "S2.34",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E90000AB<br>conversion_note: "
+    },
+    {
+      "name": "S2.35",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E90000AC<br>conversion_note: "
+    },
+    {
+      "name": "S2.36",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E90000AD<br>conversion_note: "
+    },
+    {
+      "name": "S2.37",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E90000AE<br>conversion_note: "
+    },
+    {
+      "name": "S2.01A",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E90000AF<br>conversion_note: "
+    },
+    {
+      "name": "S2.01B",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E90000B0<br>conversion_note: "
+    },
+    {
+      "name": "S2.38",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E90000B1<br>conversion_note: "
+    },
+    {
+      "name": "S2.25A",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E90000B2<br>conversion_note: "
+    },
+    {
+      "name": "S2.27",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E90000A4<br>conversion_note: "
+    }
+  ],
+  "GA METRO SỐ 8": [
+    {
+      "name": "S8.01",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E900005A"
+    },
+    {
+      "name": "S8.02",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E900005B"
+    },
+    {
+      "name": "S8.05",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E900005C"
+    },
+    {
+      "name": "S8.06",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E900005D"
+    },
+    {
+      "name": "S8.07",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E900005E"
+    },
+    {
+      "name": "S8.08",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E900005F"
+    },
+    {
+      "name": "S8.09",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E9000060"
+    },
+    {
+      "name": "S8.11",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E9000061"
+    },
+    {
+      "name": "S8.12",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E9000062"
+    },
+    {
+      "name": "S8.13",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E9000063"
+    },
+    {
+      "name": "S8.14",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E9000064"
+    },
+    {
+      "name": "S8.15",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E9000065"
+    },
+    {
+      "name": "S8.16",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E9000066"
+    },
+    {
+      "name": "S8.17",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E9000067"
+    },
+    {
+      "name": "S8.18",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E9000068"
+    },
+    {
+      "name": "S8.19",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E9000069"
+    },
+    {
+      "name": "S8.20",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E900006A"
+    },
+    {
+      "name": "S8.21",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E900006B"
+    },
+    {
+      "name": "S8.22",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E900006C"
+    },
+    {
+      "name": "S8.23",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E900006D"
+    },
+    {
+      "name": "S8.24",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E900006E"
+    },
+    {
+      "name": "S8.25",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E900006F"
+    },
+    {
+      "name": "S8.26",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E9000070"
+    },
+    {
+      "name": "S8.27",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E9000071"
+    },
+    {
+      "name": "S8.28",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E9000072"
+    },
+    {
+      "name": "S8.29",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E9000073"
+    },
+    {
+      "name": "S8.30",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E9000074"
+    },
+    {
+      "name": "S8.31",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E9000075"
+    },
+    {
+      "name": "S8.32",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E9000076"
+    },
+    {
+      "name": "S8.33",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E9000077"
+    },
+    {
+      "name": "S8A.01",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E9000078"
+    },
+    {
+      "name": "S8A.02",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E9000079"
+    },
+    {
+      "name": "S8A.03",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E900007A"
+    },
+    {
+      "name": "S8A.04",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E900007B"
+    },
+    {
+      "name": "S8A.05",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E900007C"
+    },
+    {
+      "name": "S8A.06",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E900007D"
+    },
+    {
+      "name": "S8A.07",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E900007E"
+    },
+    {
+      "name": "S8A.08",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E900007F"
+    },
+    {
+      "name": "S8A.09",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E9000080"
+    },
+    {
+      "name": "S8A.10",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E9000081"
+    },
+    {
+      "name": "S8A.11",
+      "description": "mô tả: Ga Phú Dư<br>source_id: 5F615C68E9000082"
+    },
+    {
+      "name": "S8A.12",
+      "description": "mô tả: Ga Ngọc Cục<br>source_id: 5F615C68E9000083"
+    },
+    {
+      "name": "S8A.13",
+      "description": "mô tả: Ga Gia Bình<br>source_id: 5F615C68E9000084"
+    },
+    {
+      "name": "S8A.14",
+      "description": "mô tả: Ga Phú Dưới<br>source_id: 5F615C68E9000085"
+    },
+    {
+      "name": "S8.12a",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E9000086"
+    },
+    {
+      "name": "S8.10",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E9000087"
+    },
+    {
+      "name": "S8.03",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E9000088"
+    },
+    {
+      "name": "S8.04",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E9000089"
+    },
+    {
+      "name": "S8B.01A",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E90000B3"
+    },
+    {
+      "name": "S8B.01",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E90000B4"
+    },
+    {
+      "name": "S8B.02",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E90000B5"
+    },
+    {
+      "name": "S8B.03",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E90000B6"
+    },
+    {
+      "name": "S8B.04",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E90000B7"
+    },
+    {
+      "name": "S8B.05",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E90000B8"
+    },
+    {
+      "name": "S8B.06",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E90000B9"
+    }
+  ],
+  "GA METRO SỐ 10": [
+    {
+      "name": "S10.02",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E900003B<br>conversion_note: "
+    },
+    {
+      "name": "S10.04",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E900003C<br>conversion_note: "
+    },
+    {
+      "name": "S10.05",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E900003D<br>conversion_note: "
+    },
+    {
+      "name": "S10.06",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E900003E<br>conversion_note: "
+    },
+    {
+      "name": "S10.07",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E900003F<br>conversion_note: "
+    },
+    {
+      "name": "S10.08",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E9000040<br>conversion_note: "
+    },
+    {
+      "name": "S10.09",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E9000041<br>conversion_note: "
+    },
+    {
+      "name": "S10.10",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E9000042<br>conversion_note: "
+    },
+    {
+      "name": "S10.11",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E9000043<br>conversion_note: "
+    },
+    {
+      "name": "S10.12",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E9000044<br>conversion_note: "
+    },
+    {
+      "name": "S10.13",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E9000045<br>conversion_note: "
+    },
+    {
+      "name": "S10.14",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E9000046<br>conversion_note: "
+    },
+    {
+      "name": "S10.15",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E9000047<br>conversion_note: "
+    },
+    {
+      "name": "S10.16",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E9000048<br>conversion_note: "
+    },
+    {
+      "name": "S10.17",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E9000049<br>conversion_note: "
+    },
+    {
+      "name": "S10.18",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E900004A<br>conversion_note: "
+    },
+    {
+      "name": "S10.19",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E900004B<br>conversion_note: "
+    },
+    {
+      "name": "S10.20",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E900004C<br>conversion_note: "
+    },
+    {
+      "name": "S10.21",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E900004D<br>conversion_note: "
+    },
+    {
+      "name": "S10.22",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E900004E<br>conversion_note: "
+    },
+    {
+      "name": "S10.23",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E900004F<br>conversion_note: "
+    },
+    {
+      "name": "S10.24",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E9000050<br>conversion_note: "
+    },
+    {
+      "name": "S10.25",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E9000051<br>conversion_note: "
+    },
+    {
+      "name": "S10.26",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E9000052<br>conversion_note: "
+    },
+    {
+      "name": "S10.27",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E9000053<br>conversion_note: "
+    },
+    {
+      "name": "S10.28",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E9000054<br>conversion_note: "
+    },
+    {
+      "name": "S10.29",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E9000055<br>conversion_note: "
+    },
+    {
+      "name": "S10.30",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E9000056<br>conversion_note: "
+    },
+    {
+      "name": "S10.31",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E9000057<br>conversion_note: "
+    },
+    {
+      "name": "S10.01",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E9000058<br>conversion_note: "
+    },
+    {
+      "name": "S10.03",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E9000059<br>conversion_note: "
+    }
+  ],
+  "GA METRO SỐ 14": [
+    {
+      "name": "ĐƯỜNG LINE TUYẾN 14",
+      "description": "mô tả: 14<br>source_id: 5F64801FE5000016<br>conversion_note: "
+    },
+    {
+      "name": "S14.01",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E9000001<br>conversion_note: "
+    },
+    {
+      "name": "S14.02",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E9000002<br>conversion_note: "
+    },
+    {
+      "name": "S14.03",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E9000003<br>conversion_note: "
+    },
+    {
+      "name": "S14.04",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E9000004<br>conversion_note: "
+    },
+    {
+      "name": "S14.05",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E9000005<br>conversion_note: "
+    },
+    {
+      "name": "S14.06",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E9000006<br>conversion_note: "
+    },
+    {
+      "name": "S14.07",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E9000007<br>conversion_note: "
+    },
+    {
+      "name": "S14.08",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E9000008<br>conversion_note: "
+    },
+    {
+      "name": "S14.09",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E9000009<br>conversion_note: "
+    },
+    {
+      "name": "S14.10",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E900000A<br>conversion_note: "
+    },
+    {
+      "name": "S14.11",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E900000B<br>conversion_note: "
+    },
+    {
+      "name": "S14.12",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E900000C<br>conversion_note: "
+    },
+    {
+      "name": "S14.13",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E900000D<br>conversion_note: "
+    },
+    {
+      "name": "S14.14",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E900000E<br>conversion_note: "
+    },
+    {
+      "name": "S14.15",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E900000F<br>conversion_note: "
+    },
+    {
+      "name": "S14.16",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E9000010<br>conversion_note: "
+    },
+    {
+      "name": "S14.17",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E9000011<br>conversion_note: "
+    },
+    {
+      "name": "S14.18",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E9000012<br>conversion_note: "
+    },
+    {
+      "name": "S14.19",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E9000013<br>conversion_note: "
+    },
+    {
+      "name": "S14.20",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E9000014<br>conversion_note: "
+    },
+    {
+      "name": "S14.21",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E9000015<br>conversion_note: "
+    },
+    {
+      "name": "S14.22",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E9000016<br>conversion_note: "
+    },
+    {
+      "name": "S14.23",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E9000017<br>conversion_note: "
+    },
+    {
+      "name": "S14.24",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E9000018<br>conversion_note: "
+    },
+    {
+      "name": "S14.25",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E9000019<br>conversion_note: "
+    },
+    {
+      "name": "S14.26",
+      "description": "mô tả: Ga<br>source_id: 5F615C68E900001A<br>conversion_note: "
+    }
+  ],
+  "RANH GIỚI NHÀ GA": [
+    {
+      "name": null,
+      "description": "mô tả: 0_Ga De xuat<br>source_id: 5F6165138E000001<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: 0_Ga De xuat<br>source_id: 5F6165138F000002<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: 0_Ga De xuat<br>source_id: 5F6165138F000003<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: 0_Ga De xuat<br>source_id: 5F6165138F000004<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: 0_Ga De xuat<br>source_id: 5F61651390000005<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: 0_Ga De xuat<br>source_id: 5F61651390000006<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: 0_Ga De xuat<br>source_id: 5F61651390000007<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: 0_Ga De xuat<br>source_id: 5F61651390000008<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: 0_Ga De xuat<br>source_id: 5F61651390000009<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: 0_Ga De xuat<br>source_id: 5F6165139100000A<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: 0_Ga De xuat<br>source_id: 5F6165139100000B<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: 0_Ga De xuat<br>source_id: 5F6165139100000C<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: 0_Ga De xuat<br>source_id: 5F6165139100000D<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: 0_Ga De xuat<br>source_id: 5F6165139200000E<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: 0_Ga De xuat<br>source_id: 5F6165139200000F<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: 0_Ga De xuat<br>source_id: 5F61651392000010<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: 0_Ga De xuat<br>source_id: 5F61651392000011<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: 0_Ga De xuat<br>source_id: 5F61651392000012<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: 0_Ga De xuat<br>source_id: 5F61651392000013<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: 0_Ga De xuat<br>source_id: 5F61651392000014<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: 0_Ga De xuat<br>source_id: 5F61651392000015<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: 0_Ga De xuat<br>source_id: 5F61651392000016<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: 0_Ga De xuat<br>source_id: 5F61651392000017<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: 0_Ga De xuat<br>source_id: 5F61651393000018<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: 0_Ga De xuat<br>source_id: 5F61651393000019<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: 0_Ga De xuat<br>source_id: 5F6165139300001A<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: 0_Ga De xuat<br>source_id: 5F6165139300001B<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: 0_Ga De xuat<br>source_id: 5F6165139300001C<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: 0_Ga De xuat<br>source_id: 5F6165139300001D<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: 0_Ga De xuat<br>source_id: 5F6165139300001E<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: 0_Ga De xuat<br>source_id: 5F6165139400001F<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: 0_Ga De xuat<br>source_id: 5F61651394000020<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: 0_Ga De xuat<br>source_id: 5F61651394000021<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: Detot Xuan Dinh$0$a-R.O.W<br>source_id: 5F61651394000022<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: RANH GIOI GPMB GA<br>source_id: 5F61651394000023<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: RANH GIOI GPMB GA<br>source_id: 5F61651394000024<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: RANH GIOI GPMB GA<br>source_id: 5F61651395000025<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: RANH GIOI GPMB GA<br>source_id: 5F61651395000026<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: RANH GIOI GPMB GA<br>source_id: 5F61651395000027<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: RANH GIOI GPMB GA<br>source_id: 5F61651395000028<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: RANH GIOI GPMB GA<br>source_id: 5F61651395000029<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: RANH GIOI GPMB GA<br>source_id: 5F6165139500002A<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: RANH GIOI GPMB GA<br>source_id: 5F6165139500002B<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: RANH GIOI GPMB GA<br>source_id: 5F6165139500002C<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: RANH GIOI GPMB GA<br>source_id: 5F6165139600002D<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: RANH GIOI GPMB GA<br>source_id: 5F6165139600002E<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: RANH GIOI GPMB GA<br>source_id: 5F6165139600002F<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: RANH GIOI GPMB GA<br>source_id: 5F61651396000030<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: RANH GIOI GPMB GA<br>source_id: 5F61651396000031<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: RANH GIOI GPMB GA<br>source_id: 5F61651396000032<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: RANH GIOI GPMB GA<br>source_id: 5F61651397000033<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: RANH GIOI GPMB GA<br>source_id: 5F61651397000034<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: RANH GIOI GPMB GA<br>source_id: 5F61651397000035<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: RANH GIOI GPMB GA<br>source_id: 5F61651397000036<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: RANH GIOI GPMB GA<br>source_id: 5F61651397000037<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: RANH GIOI GPMB GA<br>source_id: 5F61651397000038<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: RANH GIOI GPMB GA<br>source_id: 5F61651397000039<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: RANH GIOI GPMB GA<br>source_id: 5F6165139800003A<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: RANH GIOI GPMB GA<br>source_id: 5F6165139800003B<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: RANH GIOI GPMB GA<br>source_id: 5F6165139800003C<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: RANH GIOI GPMB GA<br>source_id: 5F6165139800003D<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: RANH GIOI GPMB GA<br>source_id: 5F6165139800003E<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: RANH GIOI GPMB GA<br>source_id: 5F6165139800003F<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: RANH GIOI GPMB GA<br>source_id: 5F61651398000040<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: !!! Ranh GPMB<br>source_id: 5F61651398000041<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: !!! Ranh GPMB<br>source_id: 5F61651399000042<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: !!! Ranh GPMB<br>source_id: 5F61651399000043<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: !!! Ranh GPMB<br>source_id: 5F61651399000044<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: !!! Ranh GPMB<br>source_id: 5F61651399000045<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: !!! Ranh GPMB<br>source_id: 5F61651399000046<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: !!! Ranh GPMB<br>source_id: 5F61651399000047<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: !!! Ranh GPMB<br>source_id: 5F61651399000048<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: !!! Ranh GPMB<br>source_id: 5F61651399000049<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: !!! Ranh GPMB<br>source_id: 5F6165139900004A<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: !!! Ranh GPMB<br>source_id: 5F6165139A00004B<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: !!! Ranh GPMB<br>source_id: 5F6165139A00004C<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: !!! Ranh GPMB<br>source_id: 5F6165139A00004D<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: !!! Ranh GPMB<br>source_id: 5F6165139A00004E<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: !!! Ranh GPMB<br>source_id: 5F6165139A00004F<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: !!! Ranh GPMB<br>source_id: 5F6165139A000050<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: !!! Ranh GPMB<br>source_id: 5F6165139A000051<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: !!! Ranh GPMB<br>source_id: 5F6165139A000052<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: !!! Ranh GPMB<br>source_id: 5F6165139A000053<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: !!! Ranh GPMB<br>source_id: 5F6165139A000054<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: !!! Ranh GPMB<br>source_id: 5F6165139A000055<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: !!! Ranh GPMB<br>source_id: 5F6165139A000056<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: !!! Ranh GPMB<br>source_id: 5F6165139B000057<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: !!! Ranh GPMB<br>source_id: 5F6165139B000058<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: !!! Ranh GPMB<br>source_id: 5F6165139B000059<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: !!! Ranh GPMB<br>source_id: 5F6165139B00005A<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: !!! Ranh GPMB<br>source_id: 5F6165139B00005B<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: !!! Ranh GPMB<br>source_id: 5F6165139B00005C<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: !!! Ranh GPMB<br>source_id: 5F6165139B00005D<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: !!! Ranh GPMB<br>source_id: 5F6165139B00005E<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: !!! Ranh GPMB<br>source_id: 5F6165139B00005F<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: !!! Ranh GPMB<br>source_id: 5F6165139C000060<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: !!! Ranh GPMB<br>source_id: 5F6165139C000061<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: !!! Ranh GPMB<br>source_id: 5F6165139C000062<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: !!! Ranh GPMB<br>source_id: 5F6165139C000063<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: !!! Ranh GPMB<br>source_id: 5F6165139C000064<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: !!! Ranh GPMB<br>source_id: 5F6165139C000065<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: !!! Ranh GPMB<br>source_id: 5F6165139C000066<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: !!! Ranh GPMB<br>source_id: 5F6165139C000067<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: Detot Xuan Dinh$0$a-R.O.W<br>source_id: 5F6165139C000068<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: Detot Xuan Dinh$0$a-R.O.W<br>source_id: 5F6165139D000069<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: !!! Ranh GPMB<br>source_id: 5F6165139D00006A<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: !!! Ranh GPMB<br>source_id: 5F6165139D00006B<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: !!! Ranh GPMB<br>source_id: 5F6165139D00006C<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: !!! Ranh GPMB<br>source_id: 5F6165139D00006D<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: !!! Ranh GPMB<br>source_id: 5F6165139E00006E<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: !!! Ranh GPMB<br>source_id: 5F6165139E00006F<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: 00- RANH GPMB GA 3M<br>source_id: 5F6165139E000070<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: 00- RANH GPMB GA 3M<br>source_id: 5F6165139E000071<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: 00- RANH GPMB GA 3M<br>source_id: 5F6165139E000072<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: 00- RANH GPMB GA 3M<br>source_id: 5F6165139E000073<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: 00- RANH GPMB GA 3M<br>source_id: 5F6165139F000074<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: 00- RANH GPMB GA 3M<br>source_id: 5F6165139F000075<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: 00- RANH GPMB GA 3M<br>source_id: 5F6165139F000076<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: 00- RANH GPMB GA 3M<br>source_id: 5F6165139F000077<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: 00- RANH GPMB GA 3M<br>source_id: 5F6165139F000078<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: 00- RANH GPMB GA 3M<br>source_id: 5F6165139F000079<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: 00- RANH GPMB GA 3M<br>source_id: 5F6165139F00007A<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: 00- RANH GPMB GA 3M<br>source_id: 5F616513A000007B<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: 00- RANH GPMB GA 3M<br>source_id: 5F616513A000007C<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: 00- RANH GPMB GA 3M<br>source_id: 5F616513A000007D<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: 00- RANH GPMB GA 3M<br>source_id: 5F616513A000007E<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: 00- RANH GPMB GA 3M<br>source_id: 5F616513A000007F<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: 00- RANH GPMB GA 3M<br>source_id: 5F616513A0000080<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: 00- RANH GPMB GA 3M<br>source_id: 5F616513A0000081<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: 00- RANH GPMB GA 3M<br>source_id: 5F616513A1000082<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: 00- RANH GPMB GA 3M<br>source_id: 5F616513A1000083<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: 00- RANH GPMB GA 3M<br>source_id: 5F616513A1000084<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: 00- RANH GPMB GA 3M<br>source_id: 5F616513A1000085<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: 00- RANH GPMB GA 3M<br>source_id: 5F616513A1000086<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: 00- RANH GPMB GA 3M<br>source_id: 5F616513A1000087<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: 00- RANH GPMB GA 3M<br>source_id: 5F616513A1000088<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: 00- RANH GPMB GA 3M<br>source_id: 5F616513A1000089<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: 00- RANH GPMB GA 3M<br>source_id: 5F616513A200008A<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: Detot Xuan Dinh$0$a-R.O.W<br>source_id: 5F616513A200008B<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: Detot Xuan Dinh$0$a-R.O.W<br>source_id: 5F616513A600008C<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: Detot Xuan Dinh$0$a-R.O.W<br>source_id: 5F616513A700008D<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: Detot Xuan Dinh$0$a-R.O.W<br>source_id: 5F616513A800008E<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: Detot Xuan Dinh$0$a-R.O.W<br>source_id: 5F616513A900008F<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: Detot Xuan Dinh$0$a-R.O.W<br>source_id: 5F616513AB000090<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: RANH GIOI GPMB GA<br>source_id: 5F616513AB000091<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: RANH GIOI GPMB GA<br>source_id: 5F616513AB000092<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: RANH GIOI GPMB GA<br>source_id: 5F616513AD000093<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: RANH GIOI GPMB GA<br>source_id: 5F616513AD000094<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: RANH GIOI GPMB GA<br>source_id: 5F616513AD000095<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: RANH GIOI GPMB GA<br>source_id: 5F616513AD000096<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: RANH GIOI GPMB GA<br>source_id: 5F616513AE000097<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: RANH GIOI GPMB GA<br>source_id: 5F616513AE000098<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: RANH GIOI GPMB GA<br>source_id: 5F616513AE000099<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: RANH GIOI GPMB GA<br>source_id: 5F616513AE00009A<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: RANH GIOI GPMB GA<br>source_id: 5F616513AE00009B<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: RANH GIOI GPMB GA<br>source_id: 5F616513AE00009C<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: RANH GIOI GPMB GA<br>source_id: 5F616513AE00009D<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: RANH GIOI GPMB GA<br>source_id: 5F616513AE00009E<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: RANH GIOI GPMB GA<br>source_id: 5F616513AF00009F<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: RANH GIOI GPMB GA<br>source_id: 5F616513AF0000A0<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: RANH GIOI GPMB GA<br>source_id: 5F616513AF0000A1<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: RANH GIOI GPMB GA<br>source_id: 5F616513AF0000A2<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: RANH GIOI GPMB GA<br>source_id: 5F616513AF0000A3<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: RANH GIOI GPMB GA<br>source_id: 5F616513AF0000A4<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: RANH GIOI GPMB GA<br>source_id: 5F616513AF0000A5<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: RANH GIOI GPMB GA<br>source_id: 5F616513AF0000A6<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: RANH GIOI GPMB GA<br>source_id: 5F616513B00000A7<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: RANH GIOI GPMB GA<br>source_id: 5F616513B00000A8<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: RANH GIOI GPMB GA<br>source_id: 5F616513B00000A9<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: 00- RANH GPMB GA 3M<br>source_id: 5F616513B00000AA<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: 00- RANH GPMB GA 3M<br>source_id: 5F616513B00000AB<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: 00- RANH GPMB GA 3M<br>source_id: 5F616513B00000AC<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: 00- RANH GPMB GA 3M<br>source_id: 5F616513B00000AD<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: 00- RANH GPMB GA 3M<br>source_id: 5F616513B00000AE<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: 00- RANH GPMB GA 3M<br>source_id: 5F616513B00000AF<br>conversion_note: "
+    },
+    {
+      "name": "Detot Xuan Dinh",
+      "description": "mô tả: Detot Xuan Dinh$0$a-R.O.W<br>source_id: 5F64801FBC000001<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: Detot Xuan Dinh$0$a-R.O.W<br>source_id: 5F64801FBD000003<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: Detot Xuan Dinh$0$a-R.O.W<br>source_id: 5F64801FBD000004<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: !!! Ranh GPMB<br>source_id: 5F64801FBD000005<br>conversion_note: Đối tượng đường nguồn chỉ có 1 tọa độ; lặp tọa độ để tạo LineString hợp lệ, không thêm vị trí mới."
+    },
+    {
+      "name": null,
+      "description": "mô tả: !!! Ranh GPMB<br>source_id: 5F64801FBD000006<br>conversion_note: Đối tượng đường nguồn chỉ có 1 tọa độ; lặp tọa độ để tạo LineString hợp lệ, không thêm vị trí mới."
+    },
+    {
+      "name": null,
+      "description": "mô tả: !!! Ranh GPMB<br>source_id: 5F64801FBD000007<br>conversion_note: Đối tượng đường nguồn chỉ có 1 tọa độ; lặp tọa độ để tạo LineString hợp lệ, không thêm vị trí mới."
+    },
+    {
+      "name": null,
+      "description": "mô tả: C-ROAD-CNTR-t<br>source_id: 5F64801FD200000F<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: C-ROAD-CNTR-3<br>source_id: 5F64801FD000000C<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: !!! Ranh GPMB<br>source_id: 5F64801FE8000017<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: !!! Ranh GPMB<br>source_id: 5F64801FE8000018<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: !!! Ranh GPMB<br>source_id: 5F64801FE8000019<br>conversion_note: Đối tượng đường nguồn chỉ có 1 tọa độ; lặp tọa độ để tạo LineString hợp lệ, không thêm vị trí mới."
+    },
+    {
+      "name": null,
+      "description": "mô tả: !!! Ranh GPMB<br>source_id: 5F64801FE800001A<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: !!! Ranh GPMB<br>source_id: 5F64801FE800001B<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: !!! Ranh GPMB<br>source_id: 5F64801FE800001D<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: !!! Ranh GPMB<br>source_id: 5F64801FE800001C<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: !!! Ranh GPMB<br>source_id: 5F64801FE800001E<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: 00- RANH GPMB GA 3M<br>source_id: 5F64801FE8000020<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: !!! Ranh GPMB<br>source_id: 5F64801FE800001F<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: RANH GIOI GPMB GA<br>source_id: 5F64801FE8000022<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: RANH GIOI GPMB GA<br>source_id: 5F64801FE8000021<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: RANH GIOI GPMB GA<br>source_id: 5F64801FE8000023<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: 00- RANH GPMB GA 3M<br>source_id: 5F64801FE8000024<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: 00- RANH GPMB GA 3M<br>source_id: 5F64801FE9000025<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: 0_Ga De xuat<br>source_id: 5F64801FE9000026<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: Detot Xuan Dinh$0$a-R.O.W<br>source_id: 5F64801FBD000002<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: 0_Ga De xuat<br>source_id: 5F64801FE9000028<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: 0_Ga De xuat<br>source_id: 5F64801FE9000029<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: 0_Ga De xuat<br>source_id: 5F64801FE900002A<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: 0_Ga De xuat<br>source_id: 5F64801FE900002B<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: !!! Ranh GPMB<br>source_id: 5F64801FE900002C<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: C-ROAD-CNTR-4<br>source_id: 5F64801FD100000D<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: C-ROAD-CNTR-t<br>source_id: 5F64801FD100000E<br>conversion_note: "
+    },
+    {
+      "name": null,
+      "description": "mô tả: 0_Ga De xuat<br>source_id: 5F64801FE9000027<br>conversion_note: "
+    }
+  ],
+  "SAN BAY": [
+    {
+      "name": "CHK QUỐC TẾ GIA BÌNH — Ranh sân bay",
+      "description": "mô tả: CAD ID: 13CF69_183435<br>Layer: RANH_GIOI_-_TONG<br>Hình học sân bay từ DXF; giản lược tối đa 0,1 m trong VN2000; CAD ID 13CF69_183435<br>source_id: 5F816687EC0001C4"
+    },
+    {
+      "name": "CHK QUỐC TẾ GIA BÌNH ",
+      "description": "mô tả: CHK QUỐC TẾ GIA BÌNH <br>source_id: 5F816687EC0001C2"
+    },
+    {
+      "name": "CHK QUỐC TẾ GIA BÌNH",
+      "description": "mô tả: CHK QUỐC TẾ GIA BÌNH<br>source_id: "
+    },
+    {
+      "name": "CHK QUỐC TẾ GIA BÌNH ",
+      "description": "mô tả: CHK QUỐC TẾ GIA BÌNH <br>source_id: "
+    },
+    {
+      "name": "CHK QUỐC TẾ GIA BÌNH ",
+      "description": "mô tả: CHK QUỐC TẾ GIA BÌNH <br>source_id: "
+    },
+    {
+      "name": "CHK QUỐC TẾ NỘI BÀI",
+      "description": "mô tả: CHK QUỐC TẾ NỘI BÀI<br>source_id: "
+    },
+    {
+      "name": "CHK QUỐC TẾ NỘI BÀI",
+      "description": "mô tả: CHK QUỐC TẾ NỘI BÀI<br>source_id: "
+    }
+  ]
+}

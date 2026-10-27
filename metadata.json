@@ -1,0 +1,6 @@
+{
+  "name": "Bản Đồ Tuyến Metro Hà Nội & Bản Dịch Tiếng Nhật (Hanoi Metro Japanese Guide)",
+  "description": "Bản đồ quy hoạch các tuyến Metro Hà Nội nhúng Google Maps kèm bản dịch song ngữ Việt - Nhật đầy đủ các tuyến, ga, lộ trình và dự án kết nối.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
