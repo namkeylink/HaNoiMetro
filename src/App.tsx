@@ -99,7 +99,7 @@ export default function App() {
         </section>
 
         {/* Embedded Google My Maps Section */}
-        <MapEmbedSection />
+        <MapEmbedSection langMode={langMode} />
 
         {/* View Tabs & Search Filter Navigation */}
         <div className="bg-white rounded-2xl border border-slate-200 shadow-xs p-4 mb-6">
